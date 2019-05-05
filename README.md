@@ -10,4 +10,6 @@
 
 ![image](https://github.com/cxf2430665418/Face-detection/blob/master/images/2.png)
 
+
+![image](https://github.com/cxf2430665418/Face-detection/blob/master/images/3.png)
       
